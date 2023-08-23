@@ -6,8 +6,6 @@ function Navbar() {
             <div>
                 <ul className="flex gap-10  text-lg text-center justify-start mr-5 p-3">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/contac">Contac</a></li>
                     <li><a href="/login">LogIn</a></li>
                 </ul>
             </div>
